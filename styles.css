@@ -1,0 +1,53 @@
+
+body{
+	font: black;
+}
+ul{
+	padding: 0;
+}
+li{
+	list-style: none;
+	margin: 0;
+	padding-right: 0;
+}
+
+img{
+	height:100%;
+	width:100%;
+}
+
+div{
+	padding:1%;
+}
+.borders{
+	border: 1px solid grey;
+	box-shadow: 2px 5px rgb(192, 192, 192);
+}
+
+.center{
+	text-align: left;
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.if{
+	font-style: italic;
+}
+
+.lab{
+	font-weight: bold;
+}
+
+
+img{
+	height:100%;
+	width:100%;
+}
+
+.if{
+	font-style: italic;
+}
+
+  .label{
+	font-weight: bold;
+}
